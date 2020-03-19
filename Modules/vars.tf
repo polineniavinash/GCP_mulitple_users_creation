@@ -16,5 +16,5 @@ variable "members_list" {
 }
 # variable "member_name" {
 #   type = string
-#   default = "user:ravichandrak341@gmail.com"
+#   default = "user:raviXXXXXXX@gmail.com"
 # }
